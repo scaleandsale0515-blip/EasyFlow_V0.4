@@ -1,2 +1,2 @@
-# EasyFlow_V0.4
-Full Factory Management Offline System. Specially for precast company. Version V04.
+# EasyFlow_V0.1
+Full Factory Management Offline System. Specially for precast companies.
